@@ -1,9 +1,10 @@
 ### Hi there 👋
-
+ [GitHub Pages](https://pages.github.com/)
+ 
 <!--
 **mikelee53/mikelee53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- [GitHub Pages](https://pages.github.com/)
+
 
 Here are some ideas to get you started:
 
